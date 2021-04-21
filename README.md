@@ -35,6 +35,26 @@ following literature:
   pages={73--87},
   year={2017},
 }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%  Implementation of the “Benchmark Problems and Performance Indicators
+for Search of Knee Points in Multi-objective Optimization”
+%%
+%%  See the details in the following paper:
+%%
+%%  Yu G , Jin Y , Olhofer M . Benchmark Problems and Performance Indicators for Search of Knee Points in Multiobjective Optimization[J]. IEEE Transactions on Cybernetics, 2019:1-14.
+%%
+%%  The srouce code is implemented by Guo Yu
+%%
+%%  If you have any questions about the code, please contact:
+%%  Guo Yu: gysearch@163.com
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Please follow the copyright of PlatEMO.
+
+
+The benchmarks and relevant indicators are stored in the file "PMOPS\PlatEMO\Problems\PMOP"
 ```  
 # Release Highlights of PlatEMO 2.0
 * __Lighter framework.__ The architecture of PlatEMO is simplified, which leads to lower learning cost and higher efficiency. The result file size is also reduced.  
